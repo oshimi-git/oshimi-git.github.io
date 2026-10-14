@@ -1,4 +1,4 @@
-# Welcome to my Portfolio
+# こんにちは！
 
 This site is powered by GitHub Pages.
 
